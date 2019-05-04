@@ -3,6 +3,8 @@ This is an online school management system developed in PHP using the Codeignite
 
 To deploy this application, make sure you are running PHP 7
 
+***NOTE: Please ensure that your server is running PHP Version: 7.0.23 or higher, and also extract the HTACCESS.rar file in your directory by right-clicking and selecting "extract here". IT THESE TWO ARE NOT PRESENT, YOU WON'T BE ABLE TO LOG IN TO THE SYSTEM.
+
 1.	Download or clone the repo 
 2.	Extract the zip file to your web directory or localhost/htdocs folder
 3.	Create a database 
