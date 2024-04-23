@@ -8,7 +8,7 @@
   <!-- boostrap theme -->
   <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/bootstrap/css/bootstrap-theme.min.css') ?>">
   <!-- datatables css -->
-  <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/datatables/media/css/jquery.dataTables.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/datatables/datatables/media/css/jquery.dataTables.min.css') ?>">
   <!-- fileinput css -->
   <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/fileinput/css/fileinput.min.css') ?>">
   <!-- fullcalendar css -->

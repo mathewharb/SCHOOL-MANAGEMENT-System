@@ -4,7 +4,7 @@
 <!-- boostrap js -->
   <script type="text/javascript" src="<?php echo base_url('assets/bootstrap/js/bootstrap.min.js') ?>"></script>
   <!-- datatables js -->
-  <script type="text/javascript" src="<?php echo base_url('assets/datatables/media/js/jquery.dataTables.min.js') ?>"></script>
+  <script type="text/javascript" src="<?php echo base_url('assets/datatables/datatables/media/js/jquery.dataTables.min.js') ?>"></script>
   <!-- fileinput js -->
   <script type="text/javascript" src="<?php echo base_url('assets/fileinput/js/fileinput.min.js') ?>"></script>
 
